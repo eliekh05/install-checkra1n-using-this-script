@@ -7,7 +7,7 @@ when done with the script just open checkra1n app from launchpad of the linux di
 
 FOR MORE INFO GO TO **checkra.in**
 
-and Don't Forget To Do like everyday or 2 days or 3 days or more depending on the use of linux distro **sudo apt update && sudo apt upgrade and software update app that comes with distro and all apps from appstore of your distro that comes with**
+and Don't Forget To Do **sudo apt update && sudo apt upgrade and software update app that comes with distro and all apps from appstore of your distro that comes with**
 
 and have a happy jailbreaking
 
