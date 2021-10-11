@@ -14,3 +14,13 @@ and have a happy jailbreaking
 **CODE_OF_CONDUCT**
 
 https://github.com/eliekh05
+
+**REFRENCES**
+
+https://checkra.in/
+
+https://checkra.in/linux
+
+**LICENSE**
+
+GPL v3
