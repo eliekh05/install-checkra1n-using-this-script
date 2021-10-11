@@ -10,7 +10,7 @@ and like everyday or 2 days or 3 days or more depending on the use of linux dist
 
 and have a happy jailbreaking
 
-**CODE_OF_CONDUCT**
+**CONTRIBUTORS**
 
 https://github.com/eliekh05
 
@@ -23,11 +23,5 @@ https://checkra.in/linux
 **LICENSE**
 
 GPL-v3
-
-
-**CONTRIBUTORS**
-
-@eliekh05
-
 
 BOLD = IMPORTANT
