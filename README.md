@@ -5,7 +5,6 @@ when done with the script just open checkra1n app from launchpad of the linux di
 
 **Only FOR A11 DEVICES IN CHECKRA1N ENABLE SKIP A11 BPR CHECK**
 
-FOR MORE INFO GO TO **checkra.in**
 
 and like everyday or 2 days or 3 days or more depending on the use of linux distro Don't Forget To Do **sudo apt update && sudo apt upgrade and software update app that comes with distro and all apps from appstore of your distro that comes with**
 
@@ -23,4 +22,12 @@ https://checkra.in/linux
 
 **LICENSE**
 
-GPL v3
+GPL-v3
+
+
+**CONTRIBUTORS**
+
+@eliekh05
+
+
+BOLD = IMPORTANT
