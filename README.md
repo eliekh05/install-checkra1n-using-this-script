@@ -1,5 +1,5 @@
 # install-checkra1n-using-this-script
-just run the script **checkra1n.sh** with **./checkra1n.sh** **if ./checkra1n did not work use bash checkra1n.sh** and everything will be done 
+download or clone after that just run the script **checkra1n.sh** with **./checkra1n.sh** **if ./checkra1n did not work use bash checkra1n.sh** and everything will be done 
 
 when done with the script just open checkra1n app from launchpad of the linux distro or type **./checkra1n** for checkra1n CLI type: **./checkra1n -c** for help type: **./checkra1n --help** for verbose checkra1n type: **./checkra1n -v** for both checkra1n CLI Verbose type: **./checkra1n -cv** if you want to run verbose mode in checkra1n app open checkra1n from launchpad of the linux distro go to options and enable **verbose boot**
 
