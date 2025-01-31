@@ -3,13 +3,13 @@ download or clone after that just run the script **checkra1n.sh** with **./check
 
 when done with the script just open checkra1n app from launchpad of the linux distro or type **./checkra1n** 
 
-a) for checkra1n CLI type: **./checkra1n -c** 
+a) for checkra1n CLI: **./checkra1n -c** 
 
-b) for help type: **./checkra1n --help** 
+b) for help: **./checkra1n --help** 
 
-c) for verbose checkra1n type: **./checkra1n -v** 
+c) for verbose checkra1n: **./checkra1n -v** 
 
-d) for both checkra1n CLI Verbose type: **./checkra1n -cv** 
+d) for both checkra1n CLI Verbose: **./checkra1n -cv** 
 
 if you want to run verbose mode in checkra1n app open checkra1n from launchpad of the linux distro go to options and enable **verbose boot**
 
